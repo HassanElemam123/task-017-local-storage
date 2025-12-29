@@ -269,6 +269,11 @@ nav {
   border-radius: 12px;
   background-color: rgb(110, 13, 13);
 }
+@media (max-width: 515px) {
+  .timer{
+    width: 100%;
+  }
+}
 .t-container {
   display: flex;
   gap: 20px;
